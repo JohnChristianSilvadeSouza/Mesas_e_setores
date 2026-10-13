@@ -201,15 +201,3 @@ setor_sac.adicionar_mesa(mesa_29)
 setor_sac.adicionar_mesa(mesa_30)
 setor_sac.adicionar_mesa(mesa_31)
 setor_sac.adicionar_mesa(mesa_32)
-
-
-
-
-setor_juridico.listar_mesas()
-
-mesa_16.listar_processos()
-
-# Listagens
-#setor_protocolo.listar_mesas()
-#mesa_01.listar_documentos()
-#mesa_02.listar_documentos()
